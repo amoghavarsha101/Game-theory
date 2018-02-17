@@ -1,0 +1,15 @@
+This is a simple game which demonstrates the famous 'Prisoner's Dilemma' of Game Theory.
+
+
+
+    Bill and Steve of a criminal gang are arrested and imprisoned. Each prisoner is in solitary confinement with no means of communicating with the other. The prosecutors lack sufficient evidence to convict the pair on the principal charge. They hope to get both sentenced to a year in prison on a lesser charge. Simultaneously, the prosecutors offer each prisoner a bargain. Each prisoner is given the opportunity either to: betray the other by testifying that the other committed the crime, or to cooperate with the other by remaining silent. The offer is:
+
+       1. If Bill and Steve each betray the other, each of them serves 2 years in prison
+       2. If Bill betrays Steve but Steve remains silent, Bill will be set free and Steve will serve 3 years in prison (and vice versa)
+       3. If Bill and Steve both remain silent, both of them will only serve 1 year in prison (on the lesser charge)
+
+So what's the best probability for both of 'em to be on safer side? (Execute 'game.sh' and start playing!)
+
+More on 'Prisoner's Dilemma' https://en.wikipedia.org/wiki/Prisoner%27s_dilemma
+
+
