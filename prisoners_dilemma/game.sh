@@ -99,7 +99,7 @@ case "$decide" in
 	"Two") echo "What goes around comes around! You have lost the game!!!"
 	;;
 
-	"Three") echo "Mistakes happen, but you made a right dicission.......YOU WIN!!!!"
+	"Three") echo "Mistakes happen, but you made a right decision.......YOU WIN!!!!"
 	;;
 	
 esac
